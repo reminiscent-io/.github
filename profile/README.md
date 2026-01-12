@@ -11,7 +11,7 @@ A mobile-first travel itinerary platform born from my own frustrations with trav
 
 **Stack:** React, Vite, Modern web technologies
 
-### 💃 CPF Dance
+### 💃 [CPF Dance](https://github.com/reminiscent-io/CPF-Dance)
 A comprehensive platform for my wife's dance instruction business, featuring:
 - Two-way communication between dancers and instructors
 - AI-powered note-taking capabilities
