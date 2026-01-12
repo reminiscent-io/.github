@@ -2,7 +2,7 @@
 
 ## Consultant Turned Builder
 
-I'm a Principal at BCG with 9+ years of strategy consulting experience, now building products that solve real problems using AI-assisted development platforms. I'm not a developer by training—I'm a developer by experience.
+I'm a Principal at BCG with 9+ years of strategy consulting experience, now building products that solve real problems using AI-assisted development platforms. I'm not a developer by training, but a developer by experience.
 
 ## What I'm Building
 
