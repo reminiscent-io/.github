@@ -32,7 +32,7 @@ A mobile-first darts scorekeeper for Cricket and X01 games. Supports team play w
 
 ## My Approach
 
-I leverage AI-assisted coding platforms (particularly Replit) to rapidly translate product strategy and customer experience insights into working applications. My consulting background gives me a unique lens on user needs, while my hands-on development experience lets me ship real solutions.
+I leverage AI-assisted coding platforms (particularly Replit, Claude Code, VS Code) to rapidly translate product strategy and customer experience insights into working applications. My consulting background gives me a unique lens on user needs, while my hands-on development experience lets me ship real solutions.
 
 ## Background
 
