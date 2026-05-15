@@ -18,6 +18,18 @@ A comprehensive platform for my wife's dance instruction business, featuring:
 - Scheduling and class management
 - Integrated payments portal
 
+### ⛳ [Card Caddie](https://github.com/reminiscent-io/card-caddie)
+
+A live scoring app for golf trips. Handles trip and round setup, 18-hole grid entry, handicap-adjusted net scoring, and auto-refreshing leaderboards across Stableford, Skins, Nassau, and Net Stroke formats. Built so the whole group can follow along in real time from their phones.
+
+**Stack:** React 19, Vite, Express, PostgreSQL, Drizzle ORM
+
+### 🎯 [Bar Darts](https://github.com/reminiscent-io/Darts)
+
+A mobile-first darts scorekeeper for Cricket and X01 games. Supports team play with individual player attribution, real-time multi-device sync via WebSocket, and game history with per-player shot tracking.
+
+**Stack:** React 18, Vite, Express, WebSocket, PostgreSQL
+
 ## My Approach
 
 I leverage AI-assisted coding platforms (particularly Replit) to rapidly translate product strategy and customer experience insights into working applications. My consulting background gives me a unique lens on user needs, while my hands-on development experience lets me ship real solutions.
