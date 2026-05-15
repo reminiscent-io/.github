@@ -18,7 +18,7 @@ A comprehensive platform for my wife's dance instruction business, featuring:
 - Scheduling and class management
 - Integrated payments portal
 
-### ⛳ [Card Caddie](https://github.com/reminiscent-io/card-caddie)
+### ⛳ [Card Caddie](https://github.com/reminiscent-io/golf-outing)
 
 A live scoring app for golf trips. Handles trip and round setup, 18-hole grid entry, handicap-adjusted net scoring, and auto-refreshing leaderboards across Stableford, Skins, Nassau, and Net Stroke formats. Built so the whole group can follow along in real time from their phones.
 
